@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de Análise e Desenvolvimento de Sistemas, atuando na área de programação como Front End.
+    Sou estudante de Programação e Desenvolvimento Web, principalmente na área de Front End.
   </p>
  
 </div>
