@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats%22%3E
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=@cleitianoo&theme=neon-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitianoo&theme=neon-dark)](https://git.io/streak-stats)
 
 </a>
   <a href="https://wakatime.com/@cleitianoo%22%3E
