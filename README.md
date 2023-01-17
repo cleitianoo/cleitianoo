@@ -11,6 +11,17 @@
  
 </div>
 
+<p align="left">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats%22%3E
+ 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cleitianoo&theme=neon-dark)](https://git.io/streak-stats)
+
+</a>
+  <a href="https://wakatime.com/@cleitianoo%22%3E
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@cleitianoo&theme=tokyonight%22/%3E
+</a>
+</p>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
